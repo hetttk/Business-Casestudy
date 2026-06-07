@@ -1,0 +1,34 @@
+Executive Summary
+
+The Regional Sales Performance Analysis was conducted on 5,000 retail transactions across four regions: North, South, East, and West.
+----------------------------
+
+Key Findings
+
+• South region generated the highest completed-order revenue of approximately ₹20.26 million, making it the strongest-performing region.
+
+• West region recorded the highest product return rate (11.98%), indicating possible customer satisfaction, delivery, or product quality issues.
+
+• Home Appliances emerged as the leading revenue-generating category, significantly outperforming Electronics, Fashion, and Stationery.
+
+• Rahul was identified as the highest-performing sales agent based on completed-order revenue, followed by Arjun and Priya.
+
+• Television, Refrigerator, and Washing Machine were among the most frequently returned products, suggesting that these product lines should be investigated further.
+-------------------------------
+
+
+Business Recommendations
+
+1. Conduct a root-cause analysis of returns in the West region to reduce revenue leakage.
+
+2. Review quality control and customer feedback for highly returned products such as Television and Refrigerator.
+
+3. Replicate the sales strategies used by top-performing agents across other sales teams.
+
+4. Increase promotional focus on lower-performing categories to improve category diversification.
+
+5. Establish a monthly monitoring dashboard to track cancellations, returns, and regional performance trends.
+
+Conclusion
+
+The analysis identified South as the strongest revenue contributor and West as the region requiring the most operational attention due to its elevated return rate. Implementing the recommended actions can improve profitability and customer satisfaction across all regions.
